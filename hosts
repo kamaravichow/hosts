@@ -1,0 +1,30 @@
+# Bytedance and chinese default blocklist
+# Blocking mobile ad providers and some analytics providers that are chinese
+#
+# Project home page:
+# https://github.com/kamaravichow/hosts/
+
+
+
+127.0.0.1  localhost
+::1  localhost
+
+# [byteoversea.com]
+127.0.0.1 tnc16-alisg.byteoversea.com
+127.0.0.1 sdfp-sg.byteoversea.com
+127.0.0.1 log.byteoversea.com
+127.0.0.1 mssdk-sg.byteoversea.com
+127.0.0.1 mssdk-sg-bu.byteoversea.com
+127.0.0.1 i.byteoversea.com
+127.0.0.1 gplog-sg.byteoversea.com
+127.0.0.1 maliva-mcs.byteoversea.com
+127.0.0.1 frontier.byteoversea.com
+127.0.0.1 vcs-va.byteoversea.com
+127.0.0.1 dm16-useast1a.byteoversea.com
+127.0.0.1 mon-va.byteoversea.com
+
+# [Resso Music]
+127.0.0.1 log.resso.app
+
+# more to be added
+
